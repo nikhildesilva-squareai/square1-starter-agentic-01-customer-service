@@ -1,0 +1,5 @@
+anthropic>=0.40
+pytest>=8.0
+# Optional, only if you expose the agent over HTTP (stretch goal):
+# fastapi>=0.115
+# uvicorn>=0.30

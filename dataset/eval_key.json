@@ -1,0 +1,227 @@
+[
+  {
+    "id": "T019",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T022",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  },
+  {
+    "id": "T037",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  },
+  {
+    "id": "T011",
+    "expected_action": "deny",
+    "expected_policy_clause": "P5"
+  },
+  {
+    "id": "T024",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T010",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T029",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T033",
+    "expected_action": "replace",
+    "expected_policy_clause": "P7"
+  },
+  {
+    "id": "T013",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  },
+  {
+    "id": "T004",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  },
+  {
+    "id": "T034",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T005",
+    "expected_action": "replace",
+    "expected_policy_clause": "P7"
+  },
+  {
+    "id": "T045",
+    "expected_action": "deny",
+    "expected_policy_clause": "P8"
+  },
+  {
+    "id": "T025",
+    "expected_action": "deny",
+    "expected_policy_clause": "P5"
+  },
+  {
+    "id": "T012",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P6"
+  },
+  {
+    "id": "T032",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T027",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T039",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T040",
+    "expected_action": "replace",
+    "expected_policy_clause": "P3"
+  },
+  {
+    "id": "T030",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  },
+  {
+    "id": "T014",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T026",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P2"
+  },
+  {
+    "id": "T021",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T023",
+    "expected_action": "replace",
+    "expected_policy_clause": "P3"
+  },
+  {
+    "id": "T031",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P1"
+  },
+  {
+    "id": "T042",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T001",
+    "expected_action": "replace",
+    "expected_policy_clause": "P3"
+  },
+  {
+    "id": "T020",
+    "expected_action": "replace",
+    "expected_policy_clause": "P7"
+  },
+  {
+    "id": "T017",
+    "expected_action": "deny",
+    "expected_policy_clause": "P8"
+  },
+  {
+    "id": "T044",
+    "expected_action": "replace",
+    "expected_policy_clause": "P7"
+  },
+  {
+    "id": "T038",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P6"
+  },
+  {
+    "id": "T036",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T043",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T003",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P2"
+  },
+  {
+    "id": "T028",
+    "expected_action": "deny",
+    "expected_policy_clause": "P8"
+  },
+  {
+    "id": "T006",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T035",
+    "expected_action": "deny",
+    "expected_policy_clause": "P5"
+  },
+  {
+    "id": "T007",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P1"
+  },
+  {
+    "id": "T009",
+    "expected_action": "replace",
+    "expected_policy_clause": "P3"
+  },
+  {
+    "id": "T015",
+    "expected_action": "replace",
+    "expected_policy_clause": "P3"
+  },
+  {
+    "id": "T016",
+    "expected_action": "refund",
+    "expected_policy_clause": "P10"
+  },
+  {
+    "id": "T018",
+    "expected_action": "escalate",
+    "expected_policy_clause": "P1"
+  },
+  {
+    "id": "T002",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T008",
+    "expected_action": "deny",
+    "expected_policy_clause": "P4"
+  },
+  {
+    "id": "T041",
+    "expected_action": "refund",
+    "expected_policy_clause": "P9"
+  }
+]

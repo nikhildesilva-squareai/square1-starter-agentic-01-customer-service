@@ -1,0 +1,407 @@
+[
+  {
+    "id": "T019",
+    "customer_message": "Bought the wrong colour strap, I need the tan and not the black. Unopened, receipt in my order history. Happy with a refund and I will reorder.",
+    "order_value": 45.0,
+    "days_since_delivery": 2,
+    "has_receipt": true,
+    "category": "accessories",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T022",
+    "customer_message": "Ordered two of the same smart plugs by mistake when the page did not seem to respond. One is still sealed. Receipt is on the order. Refund for the duplicate please.",
+    "order_value": 149.0,
+    "days_since_delivery": 3,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T037",
+    "customer_message": "I ordered the Meridian laptop dock back in March and I have decided against keeping it. It is out of the box but unused, all the cables are still bagged up. Refund please.",
+    "order_value": 310.0,
+    "days_since_delivery": 12,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T011",
+    "customer_message": "This was a gift and I do not have the receipt or the order number, it came from my sister and she says she has deleted the email. The speaker is fine, I just already own one. Can I return it?",
+    "order_value": 130.0,
+    "days_since_delivery": 9,
+    "has_receipt": false,
+    "category": "electronics",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T024",
+    "customer_message": "The coat is lovely but far too heavy for what I need it for. Tags still attached, only tried on indoors. Receipt is in my account. Refund please.",
+    "order_value": 78.0,
+    "days_since_delivery": 27,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T010",
+    "customer_message": "The throw blanket is a completely different colour to the photos, much more grey than the sand shade shown online. Unused, still folded with the card in it. I would like a refund.",
+    "order_value": 120.0,
+    "days_since_delivery": 15,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T029",
+    "customer_message": "I have had these trekking poles since the summer and the twist locks have worn loose with use. I know it has been a while. Refund?",
+    "order_value": 65.0,
+    "days_since_delivery": 120,
+    "has_receipt": true,
+    "category": "outdoors",
+    "condition": "used"
+  },
+  {
+    "id": "T033",
+    "customer_message": "The clasp on the Hollis watch strap will not stay shut, it pops open if I move my wrist at all. Six days old. I would like a replacement strap.",
+    "order_value": 88.0,
+    "days_since_delivery": 6,
+    "has_receipt": true,
+    "category": "accessories",
+    "condition": "defective"
+  },
+  {
+    "id": "T013",
+    "customer_message": "The Meridian Studio monitor is still sealed. My employer ended up providing one so I never opened the box. Receipt attached. Refund please.",
+    "order_value": 480.0,
+    "days_since_delivery": 19,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T004",
+    "customer_message": "I ordered the Kestrel noise-cancelling headphones but the ear cups are too small for me. I tried them on once, everything else is still in the box with the plastic on. Order receipt attached. I would like to return them for a refund.",
+    "order_value": 220.0,
+    "days_since_delivery": 7,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T034",
+    "customer_message": "Exactly a month today I think. The sunglasses are unopened in the case, I was given a pair for my birthday. Refund please, receipt is on my account.",
+    "order_value": 89.0,
+    "days_since_delivery": 30,
+    "has_receipt": true,
+    "category": "accessories",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T005",
+    "customer_message": "The Alderwood kettle switches itself off after about twenty seconds and never reaches the boil. Two weeks old, used maybe five times. I would rather have a working one than my money back.",
+    "order_value": 180.0,
+    "days_since_delivery": 14,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "defective"
+  },
+  {
+    "id": "T045",
+    "customer_message": "The blender is great but I have made three smoothies in it and realised it is far too loud for a flat. Obviously it has been used and washed. Can I send it back?",
+    "order_value": 99.0,
+    "days_since_delivery": 5,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "used"
+  },
+  {
+    "id": "T025",
+    "customer_message": "No receipt I am afraid, I bought this at a pop-up stand with cash and was not given one. The candle set is unopened. Can I still return it?",
+    "order_value": 58.0,
+    "days_since_delivery": 17,
+    "has_receipt": false,
+    "category": "home",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T012",
+    "customer_message": "I want to return the storage baskets. I think my partner ordered them on his account, so I am not sure whose receipt it is under. Could you check? They are unused.",
+    "order_value": 75.0,
+    "days_since_delivery": 10,
+    "has_receipt": null,
+    "category": "home",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T032",
+    "customer_message": "The rain jacket is a bit tight across the shoulders over a fleece. Not worn outside, tags are in the pocket. Refund and I will size up separately.",
+    "order_value": 155.0,
+    "days_since_delivery": 13,
+    "has_receipt": true,
+    "category": "outdoors",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T027",
+    "customer_message": "Duplicate order. The same bedding set went through twice when the checkout page hung. The second box is untouched. Refund for one of them please, the receipt covers both.",
+    "order_value": 210.0,
+    "days_since_delivery": 9,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T039",
+    "customer_message": "I have been sitting on this for two months and finally got round to writing. The dress does not fit properly across the back. Never worn out of the house, tags on. Refund please.",
+    "order_value": 132.0,
+    "days_since_delivery": 18,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T040",
+    "customer_message": "Arrived yesterday with the glass jar smashed inside the box, there is glass all through the packaging. Please do not refund me, I still want the product, just an undamaged one.",
+    "order_value": 35.0,
+    "days_since_delivery": 1,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "damaged_on_arrival"
+  },
+  {
+    "id": "T030",
+    "customer_message": "The wireless keyboard pairs fine but the layout is not what I expected, I need the ISO layout. Barely out of the box, all accessories present. Receipt attached.",
+    "order_value": 95.0,
+    "days_since_delivery": 28,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T014",
+    "customer_message": "It is just over a month since it turned up. The belt is unworn with the tag still on it. I assume that is still fine?",
+    "order_value": 42.0,
+    "days_since_delivery": 31,
+    "has_receipt": true,
+    "category": "accessories",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T026",
+    "customer_message": "The Brackenhill dining chairs have started to wobble after a couple of months of normal use. Two of the four are affected. I am not sure if that counts as a fault, but I would like something done about it.",
+    "order_value": 640.0,
+    "days_since_delivery": 60,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "used"
+  },
+  {
+    "id": "T021",
+    "customer_message": "URGENT. I need this refunded before my credit card bill lands. The Kestrel noise-cancelling headphones just are not for me, I have used them maybe twice. Please treat this as a priority, I am a long-standing customer.",
+    "order_value": 199.0,
+    "days_since_delivery": 47,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "used"
+  },
+  {
+    "id": "T023",
+    "customer_message": "The Meridian soundbar has a dented grille and a scratch across the top panel. It was like that in the box, the packaging was torn open at one end. The audio works but I am not keeping a damaged unit at that price.",
+    "order_value": 310.0,
+    "days_since_delivery": 20,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "damaged_on_arrival"
+  },
+  {
+    "id": "T031",
+    "customer_message": "I have been messed around for weeks by your incompetent staff and I am done being polite about it. Refund the jacket now or my lawyer will be in touch.",
+    "order_value": 120.0,
+    "days_since_delivery": 40,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T042",
+    "customer_message": "The shirts came in a fortnight ago and I have not opened either of them. Two weeks is well inside your window, so I would like a refund on both.",
+    "order_value": 74.0,
+    "days_since_delivery": 38,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T001",
+    "customer_message": "The box arrived crushed and two of the dinner plates were in pieces when I opened it. Nothing was missing from the order, it had just clearly taken a beating in transit. I have the confirmation email. Can you send a replacement set?",
+    "order_value": 129.0,
+    "days_since_delivery": 2,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "damaged_on_arrival"
+  },
+  {
+    "id": "T020",
+    "customer_message": "The Alderwood coffee grinder has started making a metallic grinding noise and the burr no longer turns freely. Just under a month old. I would like it swapped for a working unit.",
+    "order_value": 240.0,
+    "days_since_delivery": 29,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "defective"
+  },
+  {
+    "id": "T017",
+    "customer_message": "I have worn the walking trousers on a couple of hikes and decided they are not for me, the pockets are useless. They have been washed once. Refund?",
+    "order_value": 66.0,
+    "days_since_delivery": 11,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "used"
+  },
+  {
+    "id": "T044",
+    "customer_message": "The Kestrel projector shuts down after about ten minutes and the fan sounds like it is straining. It is under a month old. I would like a working replacement rather than a refund.",
+    "order_value": 410.0,
+    "days_since_delivery": 25,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "defective"
+  },
+  {
+    "id": "T038",
+    "customer_message": "I would like to return the leather holdall. I am not sure whether the receipt went to my old email address, and the order might be under my maiden name. It has not been opened.",
+    "order_value": 210.0,
+    "days_since_delivery": 3,
+    "has_receipt": null,
+    "category": "accessories",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T036",
+    "customer_message": "The Kestrel monitor arm is fine, I just do not need it now the desk has changed. It was only delivered about three weeks ago so I should still be well inside your return window. Refund please.",
+    "order_value": 320.0,
+    "days_since_delivery": 33,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T043",
+    "customer_message": "The Brackenhill armchair is a lovely thing but it is simply too big for the room, we measured badly. It is still wrapped in the delivery plastic in the hallway, we never unwrapped it. Refund please, receipt attached.",
+    "order_value": 495.0,
+    "days_since_delivery": 6,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T003",
+    "customer_message": "My Meridian Studio monitor has a dead column of pixels down the right hand side, visible on any bright background. It is four days old. This was not a cheap purchase and I would like a working unit.",
+    "order_value": 899.0,
+    "days_since_delivery": 4,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "defective"
+  },
+  {
+    "id": "T028",
+    "customer_message": "The camping stove works fine, I have just used it on two trips and realised it is overkill for solo hiking. It is a bit sooty but perfectly functional. Can I return it?",
+    "order_value": 145.0,
+    "days_since_delivery": 22,
+    "has_receipt": true,
+    "category": "outdoors",
+    "condition": "used"
+  },
+  {
+    "id": "T006",
+    "customer_message": "Wrong size. I ordered a medium and it is swamping me. Tags still on, never worn. Receipt is in my order history. Refund please.",
+    "order_value": 60.0,
+    "days_since_delivery": 5,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T035",
+    "customer_message": "My son ordered the sleeping bag on my behalf and there is no confirmation email anywhere, he says he checked out as a guest and lost the details. It is unused. What do you need from me to refund it?",
+    "order_value": 240.0,
+    "days_since_delivery": 2,
+    "has_receipt": false,
+    "category": "outdoors",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T007",
+    "customer_message": "Five days and still no working charger. This whole thing is a joke and your support team are idiots. I have already spoken to my lawyer about it, so sort this out today.",
+    "order_value": 89.99,
+    "days_since_delivery": 5,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "defective"
+  },
+  {
+    "id": "T009",
+    "customer_message": "Sorry this is so late. The lamp turned up with a cracked base, I put the box in the spare room and forgot about it until we moved furniture this weekend. It has been sitting damaged since the day it was delivered.",
+    "order_value": 60.0,
+    "days_since_delivery": 45,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "damaged_on_arrival"
+  },
+  {
+    "id": "T015",
+    "customer_message": "The tent poles were snapped inside the bag when it arrived, it looks like something heavy went on top of the parcel. I paid by card but I cannot find any receipt or confirmation email anywhere.",
+    "order_value": 95.0,
+    "days_since_delivery": 8,
+    "has_receipt": false,
+    "category": "outdoors",
+    "condition": "damaged_on_arrival"
+  },
+  {
+    "id": "T016",
+    "customer_message": "Changed my mind on the Fenwick 60L pack before the trip. Still boxed and unused. Order confirmation is in my account. Refund to the original card please.",
+    "order_value": 340.0,
+    "days_since_delivery": 21,
+    "has_receipt": true,
+    "category": "outdoors",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T018",
+    "customer_message": "Third time writing. Your bloody useless returns team keep closing my request without reading it. If nobody replies today I am going to report you to trading standards and take you to court.",
+    "order_value": 45.0,
+    "days_since_delivery": 12,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "used"
+  },
+  {
+    "id": "T002",
+    "customer_message": "I know I have left this a bit long but I really do need it sorted urgently. The jacket does not fit and I have been travelling for work non-stop. I have barely taken it out of the packaging. Please refund me, money is tight this month.",
+    "order_value": 55.0,
+    "days_since_delivery": 34,
+    "has_receipt": true,
+    "category": "apparel",
+    "condition": "opened_unused"
+  },
+  {
+    "id": "T008",
+    "customer_message": "I bought this rug back in the spring as a spare and never ended up using it. It is still rolled up in the original wrap. Can I send it back for a refund?",
+    "order_value": 150.0,
+    "days_since_delivery": 90,
+    "has_receipt": true,
+    "category": "home",
+    "condition": "new_unopened"
+  },
+  {
+    "id": "T041",
+    "customer_message": "Thirty days to the day, I hope that is still all right. The tablet stand and the hub are both unopened, I ended up with a different setup at home. Receipt is on the order.",
+    "order_value": 260.0,
+    "days_since_delivery": 30,
+    "has_receipt": true,
+    "category": "electronics",
+    "condition": "new_unopened"
+  }
+]
